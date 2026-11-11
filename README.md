@@ -27,4 +27,4 @@ I run live store zeecollection.tech (250+ active users, Allu Multan, PK). I want
 3. v3: Public npm package for any store
 
 Built by Uzair Kadher - Pakistan
-Contact: [your email]
+Contact: info@zeecollection.tech
